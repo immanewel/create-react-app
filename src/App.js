@@ -4,7 +4,9 @@ import './App.css';
 const App = () => {
   
   return (
-    <h6 className ="underline text-3xl">App</h6>
+    <div className='flex flex-center h-full'>
+      <h1 className ="underline text-3xl">App</h1>
+    </div>
   );
 }
 
